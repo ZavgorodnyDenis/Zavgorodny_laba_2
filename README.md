@@ -24,17 +24,16 @@
 
     ```
     python server.py
-    <img width="974" height="455" alt="image" src="https://github.com/user-attachments/assets/85695a0d-a509-45f7-86ae-06c89c81917a" />
+    
+<img width="974" height="455" alt="image" src="https://github.com/user-attachments/assets/85695a0d-a509-45f7-86ae-06c89c81917a" />
 
     ```
 
 2. Запустите клиент:
-
-   ```
+    ```
     python client.py
+    
 <img width="974" height="438" alt="image" src="https://github.com/user-attachments/assets/3fdb1e05-fa4a-47d0-af53-bd805a53a800" />
-
-
     ```
 
 ## Как запустить проект в VS Code
