@@ -25,7 +25,6 @@
     ```
     python server.py
 <img width="974" height="455" alt="image" src="https://github.com/user-attachments/assets/85695a0d-a509-45f7-86ae-06c89c81917a" />
-
     ```
 
 2. Запустите клиент:
